@@ -86,11 +86,14 @@
   .arrow-icons{
     margin-top: 40px;
     display: flex;
+    width: 50px;
   }
+/*===== 
   .arrow-icons li{
     width: 60px;
     margin-right: 25px;
   }
+=====*/
   .feature-img{
     height: 80%;
     position: absolute;
