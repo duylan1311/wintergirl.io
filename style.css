@@ -87,7 +87,7 @@
     margin-top: 40px;
     display: flex;
   }
-  .arrow-icons img{
+  .arrow-icons li{
     width: 40px;
     margin-right: 25px;
   }
